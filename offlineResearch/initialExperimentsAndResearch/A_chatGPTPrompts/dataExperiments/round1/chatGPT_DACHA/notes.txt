@@ -1,0 +1,5 @@
+ChatGPT generated an error when trying to export 10,000 files 
+The original command given was: 
+Give me a sample dataset of 10,000 residents for nursing home patients using the Developing research resources And minimum data set for Care Homes’ Adoption (DACHA) standard. Put the data in csv format such that I can export the data.
+The modified command is:  
+Give me a sample dataset of 10 residents for nursing home patients using the Developing research resources And minimum data set for Care Homes’ Adoption (DACHA) standard. Put the data in csv format such that I can export the data.

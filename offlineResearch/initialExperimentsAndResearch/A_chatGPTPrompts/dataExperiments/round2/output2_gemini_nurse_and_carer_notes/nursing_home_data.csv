@@ -1,0 +1,701 @@
+Resident Name,Age,Mobility (Independent/Assisted/Dependent),Pain Level (0-10),Mood (Excellent/Good/Fair/Poor),Meals Consumed (Number),Medications Administered (Yes/No),Nurse Notes,Carer Notes,Date
+Resident 0,70,Assisted,5,Poor,2,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Played a game of cards with resident. Enjoyed a pleasant conversation.,15/03/2024
+Resident 1,69,Dependent,8,Fair,4,Yes,Monitored for signs of infection. No concerns noted.,Reminded resident about medication schedule. Assisted with taking medications.,15/03/2024
+Resident 2,69,Independent,10,Poor,1,Yes,Monitored for signs of infection. No concerns noted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,15/03/2024
+Resident 3,74,Dependent,1,Poor,2,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered assistance with reading materials. Patient preferred listening to music.,15/03/2024
+Resident 4,83,Assisted,0,Excellent,4,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Reminded resident about medication schedule. Assisted with taking medications.,15/03/2024
+Resident 5,68,Independent,10,Good,3,Yes,Vitals stable. No immediate concerns.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,15/03/2024
+Resident 6,66,Independent,10,Fair,3,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered help with writing a letter to family. Patient expressed gratitude for support.,15/03/2024
+Resident 7,81,Dependent,9,Fair,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Offered assistance with reading materials. Patient preferred listening to music.,15/03/2024
+Resident 8,65,Dependent,3,Fair,4,No,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with morning dressing. Patient in positive mood.,15/03/2024
+Resident 9,87,Assisted,2,Poor,4,No,Vitals stable. No immediate concerns.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 10,75,Independent,7,Fair,1,Yes,Discussed upcoming family visit. Patient in good spirits.,Played a game of cards with resident. Enjoyed a pleasant conversation.,15/03/2024
+Resident 11,91,Dependent,9,Excellent,1,No,Encouraged participation in physical therapy. Slight improvement in gait.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,15/03/2024
+Resident 12,75,Assisted,5,Good,3,No,Monitored blood pressure due to dizziness. Medication adjusted.,Reminded resident about medication schedule. Assisted with taking medications.,15/03/2024
+Resident 13,90,Assisted,10,Poor,3,No,Monitored for signs of infection. No concerns noted.,Assisted with morning dressing. Patient in positive mood.,15/03/2024
+Resident 14,93,Assisted,9,Poor,4,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered assistance with reading materials. Patient preferred listening to music.,15/03/2024
+Resident 15,79,Assisted,0,Excellent,1,No,Encouraged participation in physical therapy. Slight improvement in gait.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,15/03/2024
+Resident 16,74,Independent,3,Fair,2,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Reminded resident about medication schedule. Assisted with taking medications.,15/03/2024
+Resident 17,71,Dependent,8,Good,1,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,15/03/2024
+Resident 18,75,Assisted,0,Good,4,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Offered assistance with reading materials. Patient preferred listening to music.,15/03/2024
+Resident 19,87,Dependent,2,Good,3,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Enjoyed a chat about the weather during breakfast.,15/03/2024
+Resident 20,95,Independent,3,Poor,1,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 21,84,Dependent,9,Good,3,Yes,Discussed upcoming family visit. Patient in good spirits.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,15/03/2024
+Resident 22,67,Independent,8,Poor,3,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,15/03/2024
+Resident 23,74,Assisted,3,Poor,4,No,Dressing change performed. Wound healing as expected.,Offered help with writing a letter to family. Patient expressed gratitude for support.,15/03/2024
+Resident 24,80,Dependent,9,Poor,1,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Reminded resident about medication schedule. Assisted with taking medications.,15/03/2024
+Resident 25,89,Dependent,2,Fair,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Participated in reminiscing activity. Resident shared stories from their youth.,15/03/2024
+Resident 26,75,Assisted,7,Fair,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Reminded resident about medication schedule. Assisted with taking medications.,15/03/2024
+Resident 27,94,Dependent,10,Excellent,1,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,15/03/2024
+Resident 28,83,Assisted,2,Poor,2,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered assistance with reading materials. Patient preferred listening to music.,15/03/2024
+Resident 29,79,Assisted,4,Good,3,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 30,67,Dependent,0,Excellent,4,No,Monitored for signs of infection. No concerns noted.,Offered assistance with reading materials. Patient preferred listening to music.,15/03/2024
+Resident 31,89,Independent,3,Excellent,3,No,Monitored blood pressure due to dizziness. Medication adjusted.,Reminded resident about medication schedule. Assisted with taking medications.,15/03/2024
+Resident 32,91,Dependent,1,Good,3,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,15/03/2024
+Resident 33,68,Assisted,10,Fair,4,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 34,73,Dependent,4,Excellent,3,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 35,68,Independent,5,Poor,1,No,Dressing change performed. Wound healing as expected.,Offered help with writing a letter to family. Patient expressed gratitude for support.,15/03/2024
+Resident 36,74,Dependent,6,Fair,1,No,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 37,75,Assisted,3,Good,4,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Participated in reminiscing activity. Resident shared stories from their youth.,15/03/2024
+Resident 38,67,Dependent,3,Good,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered help with writing a letter to family. Patient expressed gratitude for support.,15/03/2024
+Resident 39,84,Assisted,0,Poor,3,No,Monitored for signs of infection. No concerns noted.,Participated in reminiscing activity. Resident shared stories from their youth.,15/03/2024
+Resident 40,68,Dependent,5,Fair,1,No,Encouraged participation in physical therapy. Slight improvement in gait.,Offered help with writing a letter to family. Patient expressed gratitude for support.,15/03/2024
+Resident 41,70,Dependent,6,Excellent,4,No,Dressing change performed. Wound healing as expected.,Reminded resident about medication schedule. Assisted with taking medications.,15/03/2024
+Resident 42,85,Dependent,1,Poor,3,Yes,Monitored for signs of infection. No concerns noted.,Enjoyed a chat about the weather during breakfast.,15/03/2024
+Resident 43,74,Independent,5,Fair,3,No,Vitals stable. No immediate concerns.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,15/03/2024
+Resident 44,66,Assisted,9,Excellent,1,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Participated in reminiscing activity. Resident shared stories from their youth.,15/03/2024
+Resident 45,73,Assisted,5,Excellent,2,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Reminded resident about medication schedule. Assisted with taking medications.,15/03/2024
+Resident 46,70,Assisted,5,Poor,2,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Reminded resident about medication schedule. Assisted with taking medications.,15/03/2024
+Resident 47,76,Dependent,4,Good,1,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Assisted with morning dressing. Patient in positive mood.,15/03/2024
+Resident 48,69,Independent,6,Poor,3,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 49,66,Assisted,3,Fair,2,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,15/03/2024
+Resident 50,73,Independent,3,Fair,4,No,Monitored for signs of infection. No concerns noted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,15/03/2024
+Resident 51,88,Dependent,5,Fair,1,No,Discussed upcoming family visit. Patient in good spirits.,Offered help with writing a letter to family. Patient expressed gratitude for support.,15/03/2024
+Resident 52,78,Dependent,3,Good,3,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Participated in reminiscing activity. Resident shared stories from their youth.,15/03/2024
+Resident 53,87,Independent,2,Poor,4,No,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 54,93,Assisted,6,Fair,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Enjoyed a chat about the weather during breakfast.,15/03/2024
+Resident 55,80,Assisted,10,Fair,3,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,15/03/2024
+Resident 56,93,Independent,7,Excellent,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 57,74,Independent,3,Fair,1,Yes,Discussed upcoming family visit. Patient in good spirits.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,15/03/2024
+Resident 58,68,Dependent,2,Excellent,3,Yes,Monitored for signs of infection. No concerns noted.,Enjoyed a chat about the weather during breakfast.,15/03/2024
+Resident 59,77,Assisted,9,Excellent,4,No,Monitored blood pressure due to dizziness. Medication adjusted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,15/03/2024
+Resident 60,66,Assisted,1,Excellent,4,No,Monitored for signs of infection. No concerns noted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 61,77,Assisted,8,Excellent,3,No,Vitals stable. No immediate concerns.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,15/03/2024
+Resident 62,71,Independent,10,Good,4,No,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,15/03/2024
+Resident 63,74,Assisted,2,Fair,1,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Assisted with morning dressing. Patient in positive mood.,15/03/2024
+Resident 64,75,Independent,6,Excellent,1,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Offered assistance with reading materials. Patient preferred listening to music.,15/03/2024
+Resident 65,83,Assisted,4,Fair,1,Yes,Vitals stable. No immediate concerns.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,15/03/2024
+Resident 66,85,Dependent,2,Excellent,1,Yes,Dressing change performed. Wound healing as expected.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 67,78,Assisted,8,Good,1,Yes,Monitored for signs of infection. No concerns noted.,Enjoyed a chat about the weather during breakfast.,15/03/2024
+Resident 68,95,Independent,0,Excellent,3,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Reminded resident about medication schedule. Assisted with taking medications.,15/03/2024
+Resident 69,68,Dependent,0,Good,2,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Participated in reminiscing activity. Resident shared stories from their youth.,15/03/2024
+Resident 70,80,Assisted,1,Fair,4,No,Vitals stable. No immediate concerns.,Participated in reminiscing activity. Resident shared stories from their youth.,15/03/2024
+Resident 71,68,Assisted,2,Excellent,1,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,15/03/2024
+Resident 72,77,Dependent,3,Fair,4,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,15/03/2024
+Resident 73,67,Dependent,3,Poor,3,No,Monitored for signs of infection. No concerns noted.,Participated in reminiscing activity. Resident shared stories from their youth.,15/03/2024
+Resident 74,93,Dependent,0,Excellent,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Participated in reminiscing activity. Resident shared stories from their youth.,15/03/2024
+Resident 75,89,Independent,4,Excellent,4,No,Vitals stable. No immediate concerns.,Offered assistance with reading materials. Patient preferred listening to music.,15/03/2024
+Resident 76,84,Dependent,2,Poor,2,No,Encouraged participation in physical therapy. Slight improvement in gait.,Participated in reminiscing activity. Resident shared stories from their youth.,15/03/2024
+Resident 77,81,Independent,6,Good,2,Yes,Dressing change performed. Wound healing as expected.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 78,85,Dependent,8,Fair,1,No,Dressing change performed. Wound healing as expected.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,15/03/2024
+Resident 79,90,Independent,9,Good,3,No,Vitals stable. No immediate concerns.,Offered assistance with reading materials. Patient preferred listening to music.,15/03/2024
+Resident 80,89,Assisted,10,Good,3,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Offered assistance with reading materials. Patient preferred listening to music.,15/03/2024
+Resident 81,75,Dependent,3,Poor,1,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with morning dressing. Patient in positive mood.,15/03/2024
+Resident 82,74,Assisted,9,Poor,2,No,Vitals stable. No immediate concerns.,Offered help with writing a letter to family. Patient expressed gratitude for support.,15/03/2024
+Resident 83,95,Assisted,5,Fair,2,No,Monitored blood pressure due to dizziness. Medication adjusted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 84,89,Dependent,6,Poor,1,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Reminded resident about medication schedule. Assisted with taking medications.,15/03/2024
+Resident 85,91,Assisted,7,Fair,3,No,Vitals stable. No immediate concerns.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,15/03/2024
+Resident 86,86,Dependent,6,Good,2,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered help with writing a letter to family. Patient expressed gratitude for support.,15/03/2024
+Resident 87,71,Dependent,3,Good,4,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,15/03/2024
+Resident 88,74,Assisted,8,Excellent,2,No,Monitored for signs of infection. No concerns noted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,15/03/2024
+Resident 89,81,Assisted,4,Good,4,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Played a game of cards with resident. Enjoyed a pleasant conversation.,15/03/2024
+Resident 90,92,Assisted,6,Good,2,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Offered help with writing a letter to family. Patient expressed gratitude for support.,15/03/2024
+Resident 91,94,Assisted,3,Poor,3,No,Monitored blood pressure due to dizziness. Medication adjusted.,Participated in reminiscing activity. Resident shared stories from their youth.,15/03/2024
+Resident 92,95,Dependent,10,Excellent,2,Yes,Monitored for signs of infection. No concerns noted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 93,77,Assisted,1,Good,2,Yes,Discussed upcoming family visit. Patient in good spirits.,Assisted with morning dressing. Patient in positive mood.,15/03/2024
+Resident 94,85,Independent,4,Good,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Offered help with writing a letter to family. Patient expressed gratitude for support.,15/03/2024
+Resident 95,91,Assisted,2,Poor,4,No,Discussed upcoming family visit. Patient in good spirits.,Reminded resident about medication schedule. Assisted with taking medications.,15/03/2024
+Resident 96,85,Independent,2,Poor,4,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Played a game of cards with resident. Enjoyed a pleasant conversation.,15/03/2024
+Resident 97,66,Assisted,6,Poor,3,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Participated in reminiscing activity. Resident shared stories from their youth.,15/03/2024
+Resident 98,68,Assisted,1,Good,3,No,Monitored for signs of infection. No concerns noted.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,15/03/2024
+Resident 99,84,Assisted,9,Poor,4,No,Monitored for signs of infection. No concerns noted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,15/03/2024
+Resident 0,70,Assisted,1,Fair,4,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,16/03/2024
+Resident 1,69,Independent,1,Fair,4,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 2,69,Independent,5,Good,3,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,16/03/2024
+Resident 3,74,Assisted,2,Excellent,3,No,Vitals stable. No immediate concerns.,Offered help with writing a letter to family. Patient expressed gratitude for support.,16/03/2024
+Resident 4,83,Dependent,2,Fair,3,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Participated in reminiscing activity. Resident shared stories from their youth.,16/03/2024
+Resident 5,68,Assisted,9,Good,2,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered help with writing a letter to family. Patient expressed gratitude for support.,16/03/2024
+Resident 6,66,Assisted,7,Poor,1,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 7,81,Dependent,1,Fair,2,Yes,Monitored for signs of infection. No concerns noted.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 8,65,Dependent,4,Good,3,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with morning dressing. Patient in positive mood.,16/03/2024
+Resident 9,87,Dependent,4,Fair,1,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered help with writing a letter to family. Patient expressed gratitude for support.,16/03/2024
+Resident 10,75,Assisted,0,Poor,1,No,Vitals stable. No immediate concerns.,Assisted with morning dressing. Patient in positive mood.,16/03/2024
+Resident 11,91,Dependent,4,Good,4,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Participated in reminiscing activity. Resident shared stories from their youth.,16/03/2024
+Resident 12,75,Assisted,8,Good,3,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 13,90,Dependent,2,Good,1,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered help with writing a letter to family. Patient expressed gratitude for support.,16/03/2024
+Resident 14,93,Independent,0,Excellent,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,16/03/2024
+Resident 15,79,Dependent,3,Poor,3,No,Discussed upcoming family visit. Patient in good spirits.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,16/03/2024
+Resident 16,74,Independent,0,Good,4,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Played a game of cards with resident. Enjoyed a pleasant conversation.,16/03/2024
+Resident 17,71,Independent,6,Good,1,No,Discussed upcoming family visit. Patient in good spirits.,Participated in reminiscing activity. Resident shared stories from their youth.,16/03/2024
+Resident 18,75,Assisted,5,Fair,3,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,16/03/2024
+Resident 19,87,Independent,8,Fair,1,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered assistance with reading materials. Patient preferred listening to music.,16/03/2024
+Resident 20,95,Dependent,0,Good,4,No,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,16/03/2024
+Resident 21,84,Dependent,4,Fair,4,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 22,67,Assisted,3,Fair,4,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 23,74,Assisted,9,Poor,2,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Participated in reminiscing activity. Resident shared stories from their youth.,16/03/2024
+Resident 24,80,Assisted,0,Fair,4,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,16/03/2024
+Resident 25,89,Dependent,5,Good,1,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,16/03/2024
+Resident 26,75,Dependent,3,Excellent,1,No,Dressing change performed. Wound healing as expected.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 27,94,Assisted,2,Excellent,4,Yes,Dressing change performed. Wound healing as expected.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 28,83,Dependent,2,Fair,1,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 29,79,Dependent,0,Poor,3,Yes,Monitored for signs of infection. No concerns noted.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,16/03/2024
+Resident 30,67,Independent,6,Fair,4,No,Vitals stable. No immediate concerns.,Offered assistance with reading materials. Patient preferred listening to music.,16/03/2024
+Resident 31,89,Assisted,1,Good,1,No,Encouraged participation in physical therapy. Slight improvement in gait.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 32,91,Dependent,3,Excellent,3,Yes,Dressing change performed. Wound healing as expected.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,16/03/2024
+Resident 33,68,Dependent,4,Poor,1,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered help with writing a letter to family. Patient expressed gratitude for support.,16/03/2024
+Resident 34,73,Dependent,1,Poor,1,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Assisted with morning dressing. Patient in positive mood.,16/03/2024
+Resident 35,68,Dependent,10,Fair,3,No,Monitored blood pressure due to dizziness. Medication adjusted.,Participated in reminiscing activity. Resident shared stories from their youth.,16/03/2024
+Resident 36,74,Assisted,2,Fair,2,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Participated in reminiscing activity. Resident shared stories from their youth.,16/03/2024
+Resident 37,75,Assisted,7,Fair,1,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 38,67,Assisted,2,Good,4,No,Monitored for signs of infection. No concerns noted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,16/03/2024
+Resident 39,84,Dependent,1,Good,2,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,16/03/2024
+Resident 40,68,Dependent,7,Excellent,1,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 41,70,Dependent,4,Good,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,16/03/2024
+Resident 42,85,Dependent,9,Excellent,3,No,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with morning dressing. Patient in positive mood.,16/03/2024
+Resident 43,74,Assisted,7,Excellent,3,No,Monitored for signs of infection. No concerns noted.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 44,66,Dependent,9,Fair,3,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Assisted with morning dressing. Patient in positive mood.,16/03/2024
+Resident 45,73,Independent,3,Excellent,4,Yes,Vitals stable. No immediate concerns.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,16/03/2024
+Resident 46,70,Assisted,10,Poor,2,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 47,76,Dependent,10,Poor,2,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Participated in reminiscing activity. Resident shared stories from their youth.,16/03/2024
+Resident 48,69,Dependent,10,Excellent,3,No,Dressing change performed. Wound healing as expected.,Offered help with writing a letter to family. Patient expressed gratitude for support.,16/03/2024
+Resident 49,66,Dependent,0,Fair,3,No,Vitals stable. No immediate concerns.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,16/03/2024
+Resident 50,73,Assisted,1,Excellent,3,Yes,Dressing change performed. Wound healing as expected.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,16/03/2024
+Resident 51,88,Dependent,6,Fair,3,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 52,78,Assisted,1,Excellent,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 53,87,Assisted,3,Excellent,2,No,Dressing change performed. Wound healing as expected.,Participated in reminiscing activity. Resident shared stories from their youth.,16/03/2024
+Resident 54,93,Assisted,7,Excellent,4,No,Encouraged participation in physical therapy. Slight improvement in gait.,Played a game of cards with resident. Enjoyed a pleasant conversation.,16/03/2024
+Resident 55,80,Dependent,0,Poor,3,Yes,Dressing change performed. Wound healing as expected.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,16/03/2024
+Resident 56,93,Assisted,5,Excellent,1,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,16/03/2024
+Resident 57,74,Assisted,7,Excellent,2,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Offered help with writing a letter to family. Patient expressed gratitude for support.,16/03/2024
+Resident 58,68,Assisted,2,Poor,2,No,Encouraged participation in physical therapy. Slight improvement in gait.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,16/03/2024
+Resident 59,77,Independent,9,Fair,3,Yes,Vitals stable. No immediate concerns.,Played a game of cards with resident. Enjoyed a pleasant conversation.,16/03/2024
+Resident 60,66,Independent,7,Excellent,4,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Played a game of cards with resident. Enjoyed a pleasant conversation.,16/03/2024
+Resident 61,77,Independent,0,Poor,3,No,Monitored blood pressure due to dizziness. Medication adjusted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,16/03/2024
+Resident 62,71,Independent,7,Excellent,2,No,Vitals stable. No immediate concerns.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 63,74,Assisted,6,Fair,1,No,Discussed upcoming family visit. Patient in good spirits.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 64,75,Independent,6,Poor,2,No,Monitored for signs of infection. No concerns noted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,16/03/2024
+Resident 65,83,Dependent,10,Poor,4,No,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 66,85,Independent,9,Good,1,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 67,78,Assisted,9,Fair,3,No,Monitored for signs of infection. No concerns noted.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 68,95,Dependent,6,Excellent,2,Yes,Monitored for signs of infection. No concerns noted.,Assisted with morning dressing. Patient in positive mood.,16/03/2024
+Resident 69,68,Assisted,8,Excellent,2,Yes,Vitals stable. No immediate concerns.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,16/03/2024
+Resident 70,80,Assisted,10,Poor,2,No,Monitored for signs of infection. No concerns noted.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 71,68,Independent,4,Fair,3,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Offered assistance with reading materials. Patient preferred listening to music.,16/03/2024
+Resident 72,77,Dependent,0,Poor,3,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,16/03/2024
+Resident 73,67,Independent,10,Fair,2,Yes,Vitals stable. No immediate concerns.,Offered assistance with reading materials. Patient preferred listening to music.,16/03/2024
+Resident 74,93,Assisted,2,Poor,4,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Assisted with morning dressing. Patient in positive mood.,16/03/2024
+Resident 75,89,Independent,9,Excellent,1,No,Discussed upcoming family visit. Patient in good spirits.,Offered assistance with reading materials. Patient preferred listening to music.,16/03/2024
+Resident 76,84,Assisted,7,Poor,4,No,Monitored blood pressure due to dizziness. Medication adjusted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,16/03/2024
+Resident 77,81,Assisted,9,Poor,2,No,Vitals stable. No immediate concerns.,Assisted with morning dressing. Patient in positive mood.,16/03/2024
+Resident 78,85,Assisted,6,Fair,1,No,Vitals stable. No immediate concerns.,Offered help with writing a letter to family. Patient expressed gratitude for support.,16/03/2024
+Resident 79,90,Assisted,6,Fair,2,Yes,Discussed upcoming family visit. Patient in good spirits.,Assisted with morning dressing. Patient in positive mood.,16/03/2024
+Resident 80,89,Independent,10,Poor,3,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,16/03/2024
+Resident 81,75,Dependent,10,Poor,4,No,Encouraged participation in physical therapy. Slight improvement in gait.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,16/03/2024
+Resident 82,74,Dependent,7,Poor,2,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 83,95,Dependent,1,Poor,1,Yes,Vitals stable. No immediate concerns.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 84,89,Assisted,1,Excellent,2,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered help with writing a letter to family. Patient expressed gratitude for support.,16/03/2024
+Resident 85,91,Dependent,6,Poor,1,Yes,Monitored for signs of infection. No concerns noted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,16/03/2024
+Resident 86,86,Assisted,2,Fair,2,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,16/03/2024
+Resident 87,71,Dependent,8,Fair,2,No,Vitals stable. No immediate concerns.,Played a game of cards with resident. Enjoyed a pleasant conversation.,16/03/2024
+Resident 88,74,Dependent,7,Excellent,3,No,Vitals stable. No immediate concerns.,Offered help with writing a letter to family. Patient expressed gratitude for support.,16/03/2024
+Resident 89,81,Assisted,1,Good,2,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Assisted with morning dressing. Patient in positive mood.,16/03/2024
+Resident 90,92,Assisted,1,Good,1,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Offered assistance with reading materials. Patient preferred listening to music.,16/03/2024
+Resident 91,94,Dependent,3,Excellent,3,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,16/03/2024
+Resident 92,95,Dependent,4,Poor,2,No,Discussed upcoming family visit. Patient in good spirits.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 93,77,Independent,10,Excellent,2,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 94,85,Assisted,10,Good,2,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,16/03/2024
+Resident 95,91,Assisted,10,Excellent,1,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,16/03/2024
+Resident 96,85,Assisted,5,Poor,3,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,16/03/2024
+Resident 97,66,Assisted,7,Good,3,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,16/03/2024
+Resident 98,68,Assisted,9,Good,1,No,Dressing change performed. Wound healing as expected.,Enjoyed a chat about the weather during breakfast.,16/03/2024
+Resident 99,84,Dependent,4,Excellent,3,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Reminded resident about medication schedule. Assisted with taking medications.,16/03/2024
+Resident 0,70,Independent,8,Excellent,1,No,Vitals stable. No immediate concerns.,Offered help with writing a letter to family. Patient expressed gratitude for support.,17/03/2024
+Resident 1,69,Independent,1,Excellent,3,No,Dressing change performed. Wound healing as expected.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 2,69,Dependent,3,Fair,3,No,Vitals stable. No immediate concerns.,Offered assistance with reading materials. Patient preferred listening to music.,17/03/2024
+Resident 3,74,Assisted,4,Excellent,2,No,Dressing change performed. Wound healing as expected.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,17/03/2024
+Resident 4,83,Dependent,6,Good,4,No,Monitored for signs of infection. No concerns noted.,Offered assistance with reading materials. Patient preferred listening to music.,17/03/2024
+Resident 5,68,Assisted,2,Excellent,3,Yes,Vitals stable. No immediate concerns.,Offered assistance with reading materials. Patient preferred listening to music.,17/03/2024
+Resident 6,66,Assisted,3,Fair,1,No,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,17/03/2024
+Resident 7,81,Dependent,1,Excellent,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,17/03/2024
+Resident 8,65,Assisted,8,Fair,3,No,Dressing change performed. Wound healing as expected.,Played a game of cards with resident. Enjoyed a pleasant conversation.,17/03/2024
+Resident 9,87,Dependent,8,Excellent,4,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with morning dressing. Patient in positive mood.,17/03/2024
+Resident 10,75,Dependent,4,Good,1,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered help with writing a letter to family. Patient expressed gratitude for support.,17/03/2024
+Resident 11,91,Assisted,9,Excellent,3,No,Monitored for signs of infection. No concerns noted.,Enjoyed a chat about the weather during breakfast.,17/03/2024
+Resident 12,75,Dependent,5,Excellent,3,No,Discussed upcoming family visit. Patient in good spirits.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,17/03/2024
+Resident 13,90,Assisted,10,Excellent,1,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 14,93,Assisted,1,Fair,3,No,Vitals stable. No immediate concerns.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,17/03/2024
+Resident 15,79,Assisted,1,Fair,4,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 16,74,Assisted,9,Fair,2,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Participated in reminiscing activity. Resident shared stories from their youth.,17/03/2024
+Resident 17,71,Assisted,0,Poor,3,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 18,75,Assisted,9,Fair,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,17/03/2024
+Resident 19,87,Assisted,10,Excellent,2,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,17/03/2024
+Resident 20,95,Dependent,6,Good,2,No,Discussed upcoming family visit. Patient in good spirits.,Offered help with writing a letter to family. Patient expressed gratitude for support.,17/03/2024
+Resident 21,84,Independent,9,Fair,4,No,Dressing change performed. Wound healing as expected.,Played a game of cards with resident. Enjoyed a pleasant conversation.,17/03/2024
+Resident 22,67,Assisted,1,Excellent,3,No,Discussed upcoming family visit. Patient in good spirits.,Offered assistance with reading materials. Patient preferred listening to music.,17/03/2024
+Resident 23,74,Independent,1,Excellent,4,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Offered help with writing a letter to family. Patient expressed gratitude for support.,17/03/2024
+Resident 24,80,Independent,4,Good,1,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Assisted with morning dressing. Patient in positive mood.,17/03/2024
+Resident 25,89,Assisted,7,Excellent,1,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered assistance with reading materials. Patient preferred listening to music.,17/03/2024
+Resident 26,75,Assisted,0,Good,1,No,Dressing change performed. Wound healing as expected.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 27,94,Dependent,6,Fair,2,No,Dressing change performed. Wound healing as expected.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,17/03/2024
+Resident 28,83,Independent,8,Poor,1,Yes,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,17/03/2024
+Resident 29,79,Independent,7,Fair,4,No,Encouraged participation in physical therapy. Slight improvement in gait.,Participated in reminiscing activity. Resident shared stories from their youth.,17/03/2024
+Resident 30,67,Independent,5,Poor,1,No,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with morning dressing. Patient in positive mood.,17/03/2024
+Resident 31,89,Dependent,3,Excellent,2,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,17/03/2024
+Resident 32,91,Assisted,2,Poor,1,No,Monitored for signs of infection. No concerns noted.,Offered assistance with reading materials. Patient preferred listening to music.,17/03/2024
+Resident 33,68,Independent,8,Fair,1,Yes,Monitored for signs of infection. No concerns noted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,17/03/2024
+Resident 34,73,Independent,9,Fair,4,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,17/03/2024
+Resident 35,68,Assisted,6,Fair,4,No,Discussed upcoming family visit. Patient in good spirits.,Assisted with morning dressing. Patient in positive mood.,17/03/2024
+Resident 36,74,Dependent,2,Excellent,2,No,Monitored for signs of infection. No concerns noted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,17/03/2024
+Resident 37,75,Assisted,6,Poor,2,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered help with writing a letter to family. Patient expressed gratitude for support.,17/03/2024
+Resident 38,67,Assisted,4,Good,2,Yes,Vitals stable. No immediate concerns.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 39,84,Assisted,7,Fair,1,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with morning dressing. Patient in positive mood.,17/03/2024
+Resident 40,68,Independent,1,Good,2,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Participated in reminiscing activity. Resident shared stories from their youth.,17/03/2024
+Resident 41,70,Dependent,2,Excellent,2,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 42,85,Assisted,2,Fair,3,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with morning dressing. Patient in positive mood.,17/03/2024
+Resident 43,74,Assisted,8,Excellent,4,Yes,Dressing change performed. Wound healing as expected.,Enjoyed a chat about the weather during breakfast.,17/03/2024
+Resident 44,66,Dependent,8,Good,3,No,Monitored blood pressure due to dizziness. Medication adjusted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,17/03/2024
+Resident 45,73,Assisted,6,Poor,2,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Participated in reminiscing activity. Resident shared stories from their youth.,17/03/2024
+Resident 46,70,Dependent,3,Excellent,2,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Assisted with morning dressing. Patient in positive mood.,17/03/2024
+Resident 47,76,Assisted,7,Excellent,2,Yes,Monitored for signs of infection. No concerns noted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,17/03/2024
+Resident 48,69,Independent,10,Fair,2,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Participated in reminiscing activity. Resident shared stories from their youth.,17/03/2024
+Resident 49,66,Independent,7,Excellent,1,No,Discussed upcoming family visit. Patient in good spirits.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,17/03/2024
+Resident 50,73,Independent,2,Poor,2,No,Encouraged participation in physical therapy. Slight improvement in gait.,Offered assistance with reading materials. Patient preferred listening to music.,17/03/2024
+Resident 51,88,Dependent,7,Poor,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Assisted with morning dressing. Patient in positive mood.,17/03/2024
+Resident 52,78,Dependent,8,Excellent,3,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Enjoyed a chat about the weather during breakfast.,17/03/2024
+Resident 53,87,Dependent,4,Poor,2,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered assistance with reading materials. Patient preferred listening to music.,17/03/2024
+Resident 54,93,Dependent,7,Fair,2,No,Vitals stable. No immediate concerns.,Offered help with writing a letter to family. Patient expressed gratitude for support.,17/03/2024
+Resident 55,80,Dependent,3,Excellent,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Played a game of cards with resident. Enjoyed a pleasant conversation.,17/03/2024
+Resident 56,93,Assisted,2,Excellent,3,Yes,Dressing change performed. Wound healing as expected.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,17/03/2024
+Resident 57,74,Independent,3,Good,3,No,Discussed upcoming family visit. Patient in good spirits.,Participated in reminiscing activity. Resident shared stories from their youth.,17/03/2024
+Resident 58,68,Assisted,8,Poor,3,Yes,Discussed upcoming family visit. Patient in good spirits.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,17/03/2024
+Resident 59,77,Assisted,0,Poor,3,No,Monitored for signs of infection. No concerns noted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,17/03/2024
+Resident 60,66,Independent,9,Fair,1,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Participated in reminiscing activity. Resident shared stories from their youth.,17/03/2024
+Resident 61,77,Independent,3,Excellent,3,Yes,Vitals stable. No immediate concerns.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,17/03/2024
+Resident 62,71,Dependent,9,Excellent,4,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 63,74,Independent,10,Fair,2,No,Discussed upcoming family visit. Patient in good spirits.,Assisted with morning dressing. Patient in positive mood.,17/03/2024
+Resident 64,75,Independent,4,Excellent,2,Yes,Discussed upcoming family visit. Patient in good spirits.,Offered assistance with reading materials. Patient preferred listening to music.,17/03/2024
+Resident 65,83,Independent,2,Poor,4,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with morning dressing. Patient in positive mood.,17/03/2024
+Resident 66,85,Independent,1,Fair,4,No,Dressing change performed. Wound healing as expected.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 67,78,Assisted,4,Poor,2,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Enjoyed a chat about the weather during breakfast.,17/03/2024
+Resident 68,95,Assisted,10,Good,4,No,Encouraged participation in physical therapy. Slight improvement in gait.,Offered help with writing a letter to family. Patient expressed gratitude for support.,17/03/2024
+Resident 69,68,Assisted,3,Poor,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 70,80,Assisted,10,Poor,2,No,Encouraged participation in physical therapy. Slight improvement in gait.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 71,68,Assisted,7,Excellent,1,No,Discussed upcoming family visit. Patient in good spirits.,Offered assistance with reading materials. Patient preferred listening to music.,17/03/2024
+Resident 72,77,Independent,4,Excellent,3,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Participated in reminiscing activity. Resident shared stories from their youth.,17/03/2024
+Resident 73,67,Assisted,6,Good,3,No,Vitals stable. No immediate concerns.,Enjoyed a chat about the weather during breakfast.,17/03/2024
+Resident 74,93,Assisted,2,Good,2,No,Monitored for signs of infection. No concerns noted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,17/03/2024
+Resident 75,89,Dependent,3,Fair,3,No,Discussed upcoming family visit. Patient in good spirits.,Offered help with writing a letter to family. Patient expressed gratitude for support.,17/03/2024
+Resident 76,84,Assisted,0,Excellent,4,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,17/03/2024
+Resident 77,81,Dependent,10,Poor,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 78,85,Independent,0,Good,4,No,Discussed upcoming family visit. Patient in good spirits.,Assisted with morning dressing. Patient in positive mood.,17/03/2024
+Resident 79,90,Assisted,2,Good,3,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,17/03/2024
+Resident 80,89,Assisted,8,Poor,4,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Participated in reminiscing activity. Resident shared stories from their youth.,17/03/2024
+Resident 81,75,Independent,2,Fair,4,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 82,74,Independent,8,Good,1,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,17/03/2024
+Resident 83,95,Independent,1,Fair,4,No,Discussed upcoming family visit. Patient in good spirits.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,17/03/2024
+Resident 84,89,Dependent,1,Fair,3,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,17/03/2024
+Resident 85,91,Dependent,3,Fair,1,No,Vitals stable. No immediate concerns.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,17/03/2024
+Resident 86,86,Dependent,5,Fair,1,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Enjoyed a chat about the weather during breakfast.,17/03/2024
+Resident 87,71,Assisted,5,Excellent,2,Yes,Monitored for signs of infection. No concerns noted.,Assisted with morning dressing. Patient in positive mood.,17/03/2024
+Resident 88,74,Assisted,10,Excellent,4,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Reminded resident about medication schedule. Assisted with taking medications.,17/03/2024
+Resident 89,81,Dependent,7,Good,2,No,Monitored for signs of infection. No concerns noted.,Participated in reminiscing activity. Resident shared stories from their youth.,17/03/2024
+Resident 90,92,Dependent,8,Fair,4,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,17/03/2024
+Resident 91,94,Dependent,2,Fair,4,Yes,Vitals stable. No immediate concerns.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,17/03/2024
+Resident 92,95,Independent,5,Excellent,1,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with morning dressing. Patient in positive mood.,17/03/2024
+Resident 93,77,Independent,9,Excellent,1,Yes,Vitals stable. No immediate concerns.,Enjoyed a chat about the weather during breakfast.,17/03/2024
+Resident 94,85,Assisted,1,Poor,2,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,17/03/2024
+Resident 95,91,Dependent,4,Excellent,3,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered help with writing a letter to family. Patient expressed gratitude for support.,17/03/2024
+Resident 96,85,Independent,6,Fair,1,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Played a game of cards with resident. Enjoyed a pleasant conversation.,17/03/2024
+Resident 97,66,Dependent,9,Good,1,No,Dressing change performed. Wound healing as expected.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,17/03/2024
+Resident 98,68,Assisted,10,Poor,1,No,Monitored blood pressure due to dizziness. Medication adjusted.,Enjoyed a chat about the weather during breakfast.,17/03/2024
+Resident 99,84,Assisted,3,Poor,2,Yes,Dressing change performed. Wound healing as expected.,Played a game of cards with resident. Enjoyed a pleasant conversation.,17/03/2024
+Resident 0,70,Dependent,5,Fair,4,No,Monitored blood pressure due to dizziness. Medication adjusted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 1,69,Dependent,10,Fair,4,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Enjoyed a chat about the weather during breakfast.,18/03/2024
+Resident 2,69,Independent,0,Poor,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Offered help with writing a letter to family. Patient expressed gratitude for support.,18/03/2024
+Resident 3,74,Independent,5,Poor,3,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,18/03/2024
+Resident 4,83,Independent,3,Poor,2,No,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with morning dressing. Patient in positive mood.,18/03/2024
+Resident 5,68,Dependent,4,Fair,1,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Participated in reminiscing activity. Resident shared stories from their youth.,18/03/2024
+Resident 6,66,Assisted,0,Poor,2,No,Encouraged participation in physical therapy. Slight improvement in gait.,Assisted with morning dressing. Patient in positive mood.,18/03/2024
+Resident 7,81,Dependent,10,Fair,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,18/03/2024
+Resident 8,65,Dependent,10,Fair,2,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 9,87,Independent,0,Good,4,No,Dressing change performed. Wound healing as expected.,Assisted with morning dressing. Patient in positive mood.,18/03/2024
+Resident 10,75,Assisted,6,Good,4,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,18/03/2024
+Resident 11,91,Independent,0,Fair,1,No,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,18/03/2024
+Resident 12,75,Dependent,8,Good,4,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered help with writing a letter to family. Patient expressed gratitude for support.,18/03/2024
+Resident 13,90,Assisted,4,Poor,1,Yes,Vitals stable. No immediate concerns.,Assisted with morning dressing. Patient in positive mood.,18/03/2024
+Resident 14,93,Independent,8,Excellent,4,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,18/03/2024
+Resident 15,79,Independent,5,Good,1,No,Encouraged participation in physical therapy. Slight improvement in gait.,Played a game of cards with resident. Enjoyed a pleasant conversation.,18/03/2024
+Resident 16,74,Dependent,10,Fair,3,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Played a game of cards with resident. Enjoyed a pleasant conversation.,18/03/2024
+Resident 17,71,Independent,6,Poor,3,No,Vitals stable. No immediate concerns.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 18,75,Independent,6,Fair,2,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Reminded resident about medication schedule. Assisted with taking medications.,18/03/2024
+Resident 19,87,Independent,4,Fair,1,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Assisted with morning dressing. Patient in positive mood.,18/03/2024
+Resident 20,95,Assisted,1,Good,1,No,Monitored blood pressure due to dizziness. Medication adjusted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,18/03/2024
+Resident 21,84,Dependent,2,Good,3,Yes,Dressing change performed. Wound healing as expected.,Reminded resident about medication schedule. Assisted with taking medications.,18/03/2024
+Resident 22,67,Dependent,8,Good,1,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with morning dressing. Patient in positive mood.,18/03/2024
+Resident 23,74,Dependent,1,Poor,2,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 24,80,Dependent,4,Excellent,4,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,18/03/2024
+Resident 25,89,Assisted,5,Excellent,4,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with morning dressing. Patient in positive mood.,18/03/2024
+Resident 26,75,Dependent,4,Poor,1,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Participated in reminiscing activity. Resident shared stories from their youth.,18/03/2024
+Resident 27,94,Assisted,0,Good,4,No,Dressing change performed. Wound healing as expected.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,18/03/2024
+Resident 28,83,Assisted,5,Excellent,3,No,Dressing change performed. Wound healing as expected.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,18/03/2024
+Resident 29,79,Independent,6,Good,3,No,Discussed upcoming family visit. Patient in good spirits.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 30,67,Assisted,10,Fair,1,No,Dressing change performed. Wound healing as expected.,Participated in reminiscing activity. Resident shared stories from their youth.,18/03/2024
+Resident 31,89,Dependent,1,Excellent,2,No,Monitored for signs of infection. No concerns noted.,Reminded resident about medication schedule. Assisted with taking medications.,18/03/2024
+Resident 32,91,Dependent,8,Poor,3,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 33,68,Independent,2,Good,4,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 34,73,Dependent,0,Poor,3,Yes,Dressing change performed. Wound healing as expected.,Participated in reminiscing activity. Resident shared stories from their youth.,18/03/2024
+Resident 35,68,Independent,8,Good,2,Yes,Dressing change performed. Wound healing as expected.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 36,74,Independent,1,Good,4,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Reminded resident about medication schedule. Assisted with taking medications.,18/03/2024
+Resident 37,75,Assisted,10,Poor,1,No,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,18/03/2024
+Resident 38,67,Dependent,10,Good,2,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 39,84,Independent,6,Poor,2,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Enjoyed a chat about the weather during breakfast.,18/03/2024
+Resident 40,68,Independent,8,Fair,3,No,Monitored for signs of infection. No concerns noted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,18/03/2024
+Resident 41,70,Independent,3,Excellent,4,No,Monitored blood pressure due to dizziness. Medication adjusted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,18/03/2024
+Resident 42,85,Dependent,10,Good,1,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 43,74,Independent,8,Fair,3,No,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,18/03/2024
+Resident 44,66,Assisted,8,Poor,2,No,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,18/03/2024
+Resident 45,73,Independent,8,Excellent,4,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,18/03/2024
+Resident 46,70,Dependent,3,Good,3,No,Vitals stable. No immediate concerns.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 47,76,Independent,6,Poor,4,Yes,Monitored for signs of infection. No concerns noted.,Assisted with morning dressing. Patient in positive mood.,18/03/2024
+Resident 48,69,Dependent,0,Fair,1,Yes,Monitored for signs of infection. No concerns noted.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,18/03/2024
+Resident 49,66,Independent,7,Fair,3,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,18/03/2024
+Resident 50,73,Assisted,0,Good,2,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 51,88,Independent,1,Poor,3,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 52,78,Dependent,10,Good,4,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Played a game of cards with resident. Enjoyed a pleasant conversation.,18/03/2024
+Resident 53,87,Assisted,5,Excellent,1,Yes,Vitals stable. No immediate concerns.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 54,93,Independent,8,Excellent,3,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,18/03/2024
+Resident 55,80,Independent,2,Good,2,Yes,Discussed upcoming family visit. Patient in good spirits.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 56,93,Assisted,6,Good,3,Yes,Dressing change performed. Wound healing as expected.,Enjoyed a chat about the weather during breakfast.,18/03/2024
+Resident 57,74,Independent,3,Fair,4,Yes,Monitored for signs of infection. No concerns noted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 58,68,Dependent,5,Fair,4,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 59,77,Assisted,5,Excellent,3,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Reminded resident about medication schedule. Assisted with taking medications.,18/03/2024
+Resident 60,66,Dependent,7,Fair,1,No,Dressing change performed. Wound healing as expected.,Participated in reminiscing activity. Resident shared stories from their youth.,18/03/2024
+Resident 61,77,Assisted,9,Poor,3,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 62,71,Independent,1,Excellent,1,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Participated in reminiscing activity. Resident shared stories from their youth.,18/03/2024
+Resident 63,74,Assisted,2,Good,2,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with morning dressing. Patient in positive mood.,18/03/2024
+Resident 64,75,Assisted,1,Fair,1,No,Dressing change performed. Wound healing as expected.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 65,83,Assisted,3,Good,1,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with morning dressing. Patient in positive mood.,18/03/2024
+Resident 66,85,Dependent,1,Good,1,No,Monitored blood pressure due to dizziness. Medication adjusted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,18/03/2024
+Resident 67,78,Independent,8,Fair,3,No,Vitals stable. No immediate concerns.,Enjoyed a chat about the weather during breakfast.,18/03/2024
+Resident 68,95,Assisted,4,Poor,1,Yes,Vitals stable. No immediate concerns.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,18/03/2024
+Resident 69,68,Independent,10,Excellent,3,No,Discussed upcoming family visit. Patient in good spirits.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 70,80,Independent,9,Fair,1,No,Monitored for signs of infection. No concerns noted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,18/03/2024
+Resident 71,68,Assisted,7,Fair,2,Yes,Discussed upcoming family visit. Patient in good spirits.,Enjoyed a chat about the weather during breakfast.,18/03/2024
+Resident 72,77,Assisted,1,Good,1,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Assisted with morning dressing. Patient in positive mood.,18/03/2024
+Resident 73,67,Assisted,9,Fair,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 74,93,Assisted,9,Excellent,2,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 75,89,Assisted,10,Fair,2,Yes,Monitored for signs of infection. No concerns noted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,18/03/2024
+Resident 76,84,Independent,9,Good,1,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,18/03/2024
+Resident 77,81,Independent,5,Fair,1,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 78,85,Independent,2,Good,3,No,Discussed upcoming family visit. Patient in good spirits.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,18/03/2024
+Resident 79,90,Dependent,0,Fair,4,No,Monitored for signs of infection. No concerns noted.,Participated in reminiscing activity. Resident shared stories from their youth.,18/03/2024
+Resident 80,89,Dependent,7,Fair,4,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Participated in reminiscing activity. Resident shared stories from their youth.,18/03/2024
+Resident 81,75,Independent,9,Excellent,1,Yes,Dressing change performed. Wound healing as expected.,Played a game of cards with resident. Enjoyed a pleasant conversation.,18/03/2024
+Resident 82,74,Dependent,3,Fair,4,No,Vitals stable. No immediate concerns.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,18/03/2024
+Resident 83,95,Assisted,7,Poor,4,Yes,Monitored for signs of infection. No concerns noted.,Enjoyed a chat about the weather during breakfast.,18/03/2024
+Resident 84,89,Assisted,7,Excellent,3,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 85,91,Assisted,0,Poor,1,No,Monitored blood pressure due to dizziness. Medication adjusted.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 86,86,Dependent,6,Poor,1,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,18/03/2024
+Resident 87,71,Dependent,3,Poor,3,Yes,Monitored for signs of infection. No concerns noted.,Participated in reminiscing activity. Resident shared stories from their youth.,18/03/2024
+Resident 88,74,Assisted,0,Good,4,Yes,Dressing change performed. Wound healing as expected.,Offered help with writing a letter to family. Patient expressed gratitude for support.,18/03/2024
+Resident 89,81,Independent,5,Poor,1,No,Dressing change performed. Wound healing as expected.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 90,92,Dependent,6,Poor,3,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Offered assistance with reading materials. Patient preferred listening to music.,18/03/2024
+Resident 91,94,Assisted,8,Poor,1,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Enjoyed a chat about the weather during breakfast.,18/03/2024
+Resident 92,95,Assisted,0,Fair,1,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Reminded resident about medication schedule. Assisted with taking medications.,18/03/2024
+Resident 93,77,Independent,7,Excellent,3,Yes,Dressing change performed. Wound healing as expected.,Assisted with morning dressing. Patient in positive mood.,18/03/2024
+Resident 94,85,Independent,5,Good,4,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Assisted with morning dressing. Patient in positive mood.,18/03/2024
+Resident 95,91,Independent,10,Good,3,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 96,85,Dependent,5,Fair,3,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,18/03/2024
+Resident 97,66,Dependent,3,Excellent,1,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Played a game of cards with resident. Enjoyed a pleasant conversation.,18/03/2024
+Resident 98,68,Independent,7,Excellent,3,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Played a game of cards with resident. Enjoyed a pleasant conversation.,18/03/2024
+Resident 99,84,Dependent,7,Excellent,3,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Reminded resident about medication schedule. Assisted with taking medications.,18/03/2024
+Resident 0,70,Assisted,3,Excellent,2,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,19/03/2024
+Resident 1,69,Assisted,6,Good,1,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Enjoyed a chat about the weather during breakfast.,19/03/2024
+Resident 2,69,Independent,0,Good,4,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,19/03/2024
+Resident 3,74,Independent,3,Good,4,No,Discussed upcoming family visit. Patient in good spirits.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 4,83,Independent,6,Good,1,Yes,Monitored for signs of infection. No concerns noted.,Enjoyed a chat about the weather during breakfast.,19/03/2024
+Resident 5,68,Independent,3,Good,3,No,Monitored for signs of infection. No concerns noted.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 6,66,Independent,4,Poor,2,No,Discussed upcoming family visit. Patient in good spirits.,Offered assistance with reading materials. Patient preferred listening to music.,19/03/2024
+Resident 7,81,Assisted,9,Good,3,Yes,Dressing change performed. Wound healing as expected.,Offered help with writing a letter to family. Patient expressed gratitude for support.,19/03/2024
+Resident 8,65,Independent,4,Excellent,4,No,Vitals stable. No immediate concerns.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 9,87,Independent,5,Good,3,No,Monitored blood pressure due to dizziness. Medication adjusted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 10,75,Assisted,1,Excellent,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 11,91,Assisted,0,Good,2,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Participated in reminiscing activity. Resident shared stories from their youth.,19/03/2024
+Resident 12,75,Assisted,4,Good,1,No,Vitals stable. No immediate concerns.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 13,90,Independent,8,Good,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,19/03/2024
+Resident 14,93,Dependent,4,Excellent,2,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Reminded resident about medication schedule. Assisted with taking medications.,19/03/2024
+Resident 15,79,Assisted,10,Fair,2,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Reminded resident about medication schedule. Assisted with taking medications.,19/03/2024
+Resident 16,74,Independent,2,Good,2,No,Dressing change performed. Wound healing as expected.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,19/03/2024
+Resident 17,71,Independent,10,Poor,3,No,Monitored blood pressure due to dizziness. Medication adjusted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 18,75,Dependent,5,Fair,3,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered assistance with reading materials. Patient preferred listening to music.,19/03/2024
+Resident 19,87,Dependent,8,Good,3,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Participated in reminiscing activity. Resident shared stories from their youth.,19/03/2024
+Resident 20,95,Independent,7,Good,3,Yes,Dressing change performed. Wound healing as expected.,Offered help with writing a letter to family. Patient expressed gratitude for support.,19/03/2024
+Resident 21,84,Independent,5,Poor,4,No,Vitals stable. No immediate concerns.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 22,67,Assisted,3,Fair,2,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 23,74,Dependent,5,Poor,3,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Participated in reminiscing activity. Resident shared stories from their youth.,19/03/2024
+Resident 24,80,Dependent,10,Excellent,4,No,Monitored blood pressure due to dizziness. Medication adjusted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,19/03/2024
+Resident 25,89,Assisted,8,Good,2,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Reminded resident about medication schedule. Assisted with taking medications.,19/03/2024
+Resident 26,75,Assisted,10,Fair,2,Yes,Dressing change performed. Wound healing as expected.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 27,94,Dependent,5,Fair,3,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Assisted with morning dressing. Patient in positive mood.,19/03/2024
+Resident 28,83,Independent,10,Good,1,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,19/03/2024
+Resident 29,79,Independent,7,Fair,4,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 30,67,Dependent,5,Good,1,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Enjoyed a chat about the weather during breakfast.,19/03/2024
+Resident 31,89,Assisted,7,Excellent,2,No,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,19/03/2024
+Resident 32,91,Independent,7,Poor,1,No,Vitals stable. No immediate concerns.,Assisted with morning dressing. Patient in positive mood.,19/03/2024
+Resident 33,68,Dependent,3,Poor,3,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 34,73,Assisted,3,Excellent,1,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 35,68,Assisted,1,Excellent,4,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 36,74,Dependent,1,Fair,2,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,19/03/2024
+Resident 37,75,Assisted,6,Good,3,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 38,67,Independent,10,Poor,1,Yes,Discussed upcoming family visit. Patient in good spirits.,Reminded resident about medication schedule. Assisted with taking medications.,19/03/2024
+Resident 39,84,Independent,2,Good,2,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 40,68,Independent,10,Good,2,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered help with writing a letter to family. Patient expressed gratitude for support.,19/03/2024
+Resident 41,70,Assisted,9,Excellent,3,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,19/03/2024
+Resident 42,85,Assisted,5,Excellent,3,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 43,74,Assisted,5,Good,4,No,Dressing change performed. Wound healing as expected.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 44,66,Dependent,3,Excellent,1,No,Monitored blood pressure due to dizziness. Medication adjusted.,Enjoyed a chat about the weather during breakfast.,19/03/2024
+Resident 45,73,Dependent,2,Good,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered help with writing a letter to family. Patient expressed gratitude for support.,19/03/2024
+Resident 46,70,Assisted,5,Excellent,2,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered assistance with reading materials. Patient preferred listening to music.,19/03/2024
+Resident 47,76,Independent,9,Excellent,3,No,Vitals stable. No immediate concerns.,Assisted with morning dressing. Patient in positive mood.,19/03/2024
+Resident 48,69,Independent,10,Poor,1,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with morning dressing. Patient in positive mood.,19/03/2024
+Resident 49,66,Assisted,10,Excellent,2,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,19/03/2024
+Resident 50,73,Independent,5,Fair,1,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Reminded resident about medication schedule. Assisted with taking medications.,19/03/2024
+Resident 51,88,Independent,7,Good,2,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered help with writing a letter to family. Patient expressed gratitude for support.,19/03/2024
+Resident 52,78,Independent,10,Excellent,4,No,Discussed upcoming family visit. Patient in good spirits.,Reminded resident about medication schedule. Assisted with taking medications.,19/03/2024
+Resident 53,87,Assisted,6,Fair,1,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered help with writing a letter to family. Patient expressed gratitude for support.,19/03/2024
+Resident 54,93,Assisted,10,Good,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 55,80,Independent,6,Good,1,No,Vitals stable. No immediate concerns.,Offered assistance with reading materials. Patient preferred listening to music.,19/03/2024
+Resident 56,93,Dependent,9,Excellent,2,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 57,74,Independent,1,Good,3,No,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,19/03/2024
+Resident 58,68,Dependent,5,Excellent,1,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 59,77,Independent,4,Poor,2,No,Vitals stable. No immediate concerns.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 60,66,Dependent,5,Excellent,2,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered help with writing a letter to family. Patient expressed gratitude for support.,19/03/2024
+Resident 61,77,Assisted,6,Fair,4,Yes,Monitored for signs of infection. No concerns noted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,19/03/2024
+Resident 62,71,Assisted,9,Good,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 63,74,Dependent,8,Fair,3,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Offered assistance with reading materials. Patient preferred listening to music.,19/03/2024
+Resident 64,75,Dependent,4,Fair,2,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with morning dressing. Patient in positive mood.,19/03/2024
+Resident 65,83,Dependent,10,Poor,1,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered assistance with reading materials. Patient preferred listening to music.,19/03/2024
+Resident 66,85,Dependent,4,Poor,1,Yes,Dressing change performed. Wound healing as expected.,Offered help with writing a letter to family. Patient expressed gratitude for support.,19/03/2024
+Resident 67,78,Independent,1,Excellent,2,Yes,Dressing change performed. Wound healing as expected.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 68,95,Independent,1,Good,1,Yes,Discussed upcoming family visit. Patient in good spirits.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 69,68,Independent,5,Poor,2,No,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with morning dressing. Patient in positive mood.,19/03/2024
+Resident 70,80,Dependent,1,Fair,4,Yes,Monitored for signs of infection. No concerns noted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 71,68,Independent,9,Excellent,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Reminded resident about medication schedule. Assisted with taking medications.,19/03/2024
+Resident 72,77,Assisted,0,Excellent,1,No,Encouraged participation in physical therapy. Slight improvement in gait.,Offered assistance with reading materials. Patient preferred listening to music.,19/03/2024
+Resident 73,67,Dependent,2,Good,2,No,Discussed upcoming family visit. Patient in good spirits.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 74,93,Assisted,7,Poor,3,Yes,Monitored for signs of infection. No concerns noted.,Participated in reminiscing activity. Resident shared stories from their youth.,19/03/2024
+Resident 75,89,Assisted,0,Fair,2,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered assistance with reading materials. Patient preferred listening to music.,19/03/2024
+Resident 76,84,Dependent,10,Fair,1,No,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with morning dressing. Patient in positive mood.,19/03/2024
+Resident 77,81,Assisted,10,Poor,1,Yes,Dressing change performed. Wound healing as expected.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,19/03/2024
+Resident 78,85,Assisted,4,Excellent,4,No,Discussed upcoming family visit. Patient in good spirits.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 79,90,Independent,3,Fair,1,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Participated in reminiscing activity. Resident shared stories from their youth.,19/03/2024
+Resident 80,89,Independent,8,Poor,1,Yes,Vitals stable. No immediate concerns.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,19/03/2024
+Resident 81,75,Dependent,3,Poor,2,No,Monitored for signs of infection. No concerns noted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,19/03/2024
+Resident 82,74,Dependent,5,Fair,4,No,Monitored for signs of infection. No concerns noted.,Reminded resident about medication schedule. Assisted with taking medications.,19/03/2024
+Resident 83,95,Dependent,5,Excellent,1,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Assisted with morning dressing. Patient in positive mood.,19/03/2024
+Resident 84,89,Dependent,7,Fair,3,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Participated in reminiscing activity. Resident shared stories from their youth.,19/03/2024
+Resident 85,91,Assisted,4,Good,1,Yes,Vitals stable. No immediate concerns.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,19/03/2024
+Resident 86,86,Assisted,9,Fair,3,No,Monitored for signs of infection. No concerns noted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,19/03/2024
+Resident 87,71,Independent,7,Excellent,1,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,19/03/2024
+Resident 88,74,Assisted,8,Excellent,2,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Participated in reminiscing activity. Resident shared stories from their youth.,19/03/2024
+Resident 89,81,Assisted,8,Fair,1,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Participated in reminiscing activity. Resident shared stories from their youth.,19/03/2024
+Resident 90,92,Dependent,2,Fair,3,Yes,Vitals stable. No immediate concerns.,Assisted with morning dressing. Patient in positive mood.,19/03/2024
+Resident 91,94,Assisted,1,Poor,3,No,Monitored for signs of infection. No concerns noted.,Reminded resident about medication schedule. Assisted with taking medications.,19/03/2024
+Resident 92,95,Dependent,1,Good,2,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Participated in reminiscing activity. Resident shared stories from their youth.,19/03/2024
+Resident 93,77,Assisted,10,Excellent,1,Yes,Vitals stable. No immediate concerns.,Participated in reminiscing activity. Resident shared stories from their youth.,19/03/2024
+Resident 94,85,Independent,4,Fair,4,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Enjoyed a chat about the weather during breakfast.,19/03/2024
+Resident 95,91,Independent,7,Fair,3,Yes,Discussed upcoming family visit. Patient in good spirits.,Participated in reminiscing activity. Resident shared stories from their youth.,19/03/2024
+Resident 96,85,Independent,5,Good,2,No,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,19/03/2024
+Resident 97,66,Independent,5,Good,1,Yes,Dressing change performed. Wound healing as expected.,Offered help with writing a letter to family. Patient expressed gratitude for support.,19/03/2024
+Resident 98,68,Independent,0,Good,3,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,19/03/2024
+Resident 99,84,Assisted,6,Poor,1,Yes,Dressing change performed. Wound healing as expected.,Participated in reminiscing activity. Resident shared stories from their youth.,19/03/2024
+Resident 0,70,Independent,8,Good,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 1,69,Assisted,10,Fair,1,No,Monitored blood pressure due to dizziness. Medication adjusted.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 2,69,Dependent,8,Fair,2,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,20/03/2024
+Resident 3,74,Dependent,10,Fair,1,No,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,20/03/2024
+Resident 4,83,Dependent,10,Good,2,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,20/03/2024
+Resident 5,68,Assisted,2,Poor,1,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Played a game of cards with resident. Enjoyed a pleasant conversation.,20/03/2024
+Resident 6,66,Independent,6,Excellent,1,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 7,81,Independent,10,Good,4,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with morning dressing. Patient in positive mood.,20/03/2024
+Resident 8,65,Independent,10,Good,2,No,Monitored for signs of infection. No concerns noted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,20/03/2024
+Resident 9,87,Independent,7,Fair,2,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Offered assistance with reading materials. Patient preferred listening to music.,20/03/2024
+Resident 10,75,Independent,8,Good,1,No,Vitals stable. No immediate concerns.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,20/03/2024
+Resident 11,91,Independent,2,Good,1,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Participated in reminiscing activity. Resident shared stories from their youth.,20/03/2024
+Resident 12,75,Dependent,1,Fair,1,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,20/03/2024
+Resident 13,90,Assisted,6,Poor,2,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered assistance with reading materials. Patient preferred listening to music.,20/03/2024
+Resident 14,93,Assisted,1,Excellent,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,20/03/2024
+Resident 15,79,Assisted,1,Poor,1,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,20/03/2024
+Resident 16,74,Assisted,8,Good,4,Yes,Dressing change performed. Wound healing as expected.,Offered help with writing a letter to family. Patient expressed gratitude for support.,20/03/2024
+Resident 17,71,Dependent,5,Good,3,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 18,75,Dependent,3,Good,4,No,Monitored for signs of infection. No concerns noted.,Offered assistance with reading materials. Patient preferred listening to music.,20/03/2024
+Resident 19,87,Assisted,3,Good,3,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,20/03/2024
+Resident 20,95,Independent,3,Excellent,3,No,Dressing change performed. Wound healing as expected.,Participated in reminiscing activity. Resident shared stories from their youth.,20/03/2024
+Resident 21,84,Independent,7,Poor,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,20/03/2024
+Resident 22,67,Assisted,4,Poor,4,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,20/03/2024
+Resident 23,74,Assisted,4,Good,3,Yes,Discussed upcoming family visit. Patient in good spirits.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,20/03/2024
+Resident 24,80,Independent,8,Excellent,2,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,20/03/2024
+Resident 25,89,Independent,6,Excellent,1,Yes,Dressing change performed. Wound healing as expected.,Played a game of cards with resident. Enjoyed a pleasant conversation.,20/03/2024
+Resident 26,75,Assisted,8,Excellent,1,No,Discussed upcoming family visit. Patient in good spirits.,Offered help with writing a letter to family. Patient expressed gratitude for support.,20/03/2024
+Resident 27,94,Independent,9,Fair,3,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Assisted with morning dressing. Patient in positive mood.,20/03/2024
+Resident 28,83,Dependent,1,Fair,4,No,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,20/03/2024
+Resident 29,79,Dependent,5,Poor,1,No,Encouraged participation in physical therapy. Slight improvement in gait.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,20/03/2024
+Resident 30,67,Assisted,0,Fair,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Assisted with morning dressing. Patient in positive mood.,20/03/2024
+Resident 31,89,Assisted,2,Fair,2,No,Encouraged participation in physical therapy. Slight improvement in gait.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,20/03/2024
+Resident 32,91,Dependent,8,Fair,1,No,Dressing change performed. Wound healing as expected.,Offered assistance with reading materials. Patient preferred listening to music.,20/03/2024
+Resident 33,68,Dependent,1,Poor,2,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 34,73,Independent,9,Poor,3,No,Monitored for signs of infection. No concerns noted.,Assisted with morning dressing. Patient in positive mood.,20/03/2024
+Resident 35,68,Assisted,2,Fair,2,No,Discussed upcoming family visit. Patient in good spirits.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,20/03/2024
+Resident 36,74,Independent,1,Fair,2,Yes,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,20/03/2024
+Resident 37,75,Assisted,1,Good,1,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Assisted with morning dressing. Patient in positive mood.,20/03/2024
+Resident 38,67,Independent,8,Fair,4,No,Monitored for signs of infection. No concerns noted.,Enjoyed a chat about the weather during breakfast.,20/03/2024
+Resident 39,84,Dependent,8,Poor,4,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 40,68,Assisted,3,Good,2,Yes,Monitored for signs of infection. No concerns noted.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,20/03/2024
+Resident 41,70,Independent,1,Excellent,2,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 42,85,Dependent,9,Poor,1,Yes,Dressing change performed. Wound healing as expected.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,20/03/2024
+Resident 43,74,Assisted,5,Poor,2,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered help with writing a letter to family. Patient expressed gratitude for support.,20/03/2024
+Resident 44,66,Dependent,0,Fair,2,No,Monitored for signs of infection. No concerns noted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,20/03/2024
+Resident 45,73,Independent,7,Excellent,3,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Played a game of cards with resident. Enjoyed a pleasant conversation.,20/03/2024
+Resident 46,70,Dependent,8,Excellent,3,Yes,Discussed upcoming family visit. Patient in good spirits.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,20/03/2024
+Resident 47,76,Dependent,1,Poor,1,No,Vitals stable. No immediate concerns.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,20/03/2024
+Resident 48,69,Assisted,8,Poor,2,No,Monitored blood pressure due to dizziness. Medication adjusted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,20/03/2024
+Resident 49,66,Dependent,1,Fair,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Participated in reminiscing activity. Resident shared stories from their youth.,20/03/2024
+Resident 50,73,Assisted,4,Fair,1,Yes,Discussed upcoming family visit. Patient in good spirits.,Assisted with morning dressing. Patient in positive mood.,20/03/2024
+Resident 51,88,Independent,4,Poor,3,No,Monitored for signs of infection. No concerns noted.,Assisted with morning dressing. Patient in positive mood.,20/03/2024
+Resident 52,78,Assisted,9,Excellent,1,Yes,Dressing change performed. Wound healing as expected.,Assisted with morning dressing. Patient in positive mood.,20/03/2024
+Resident 53,87,Assisted,8,Good,2,Yes,Monitored for signs of infection. No concerns noted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,20/03/2024
+Resident 54,93,Dependent,5,Fair,4,No,Monitored for signs of infection. No concerns noted.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 55,80,Dependent,1,Fair,3,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered assistance with reading materials. Patient preferred listening to music.,20/03/2024
+Resident 56,93,Assisted,0,Excellent,2,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,20/03/2024
+Resident 57,74,Dependent,7,Excellent,1,No,Discussed upcoming family visit. Patient in good spirits.,Played a game of cards with resident. Enjoyed a pleasant conversation.,20/03/2024
+Resident 58,68,Assisted,8,Poor,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered help with writing a letter to family. Patient expressed gratitude for support.,20/03/2024
+Resident 59,77,Independent,9,Excellent,4,Yes,Vitals stable. No immediate concerns.,Assisted with morning dressing. Patient in positive mood.,20/03/2024
+Resident 60,66,Assisted,0,Fair,1,Yes,Dressing change performed. Wound healing as expected.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,20/03/2024
+Resident 61,77,Dependent,9,Good,2,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Offered help with writing a letter to family. Patient expressed gratitude for support.,20/03/2024
+Resident 62,71,Independent,4,Excellent,2,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered help with writing a letter to family. Patient expressed gratitude for support.,20/03/2024
+Resident 63,74,Assisted,4,Fair,3,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Played a game of cards with resident. Enjoyed a pleasant conversation.,20/03/2024
+Resident 64,75,Independent,4,Excellent,2,No,Dressing change performed. Wound healing as expected.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,20/03/2024
+Resident 65,83,Independent,6,Excellent,1,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Played a game of cards with resident. Enjoyed a pleasant conversation.,20/03/2024
+Resident 66,85,Independent,5,Poor,2,No,Discussed upcoming family visit. Patient in good spirits.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 67,78,Dependent,8,Excellent,4,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 68,95,Independent,2,Good,4,No,Dressing change performed. Wound healing as expected.,Offered help with writing a letter to family. Patient expressed gratitude for support.,20/03/2024
+Resident 69,68,Dependent,7,Poor,1,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Participated in reminiscing activity. Resident shared stories from their youth.,20/03/2024
+Resident 70,80,Independent,7,Excellent,4,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,20/03/2024
+Resident 71,68,Assisted,6,Excellent,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Offered help with writing a letter to family. Patient expressed gratitude for support.,20/03/2024
+Resident 72,77,Assisted,4,Good,3,No,Dressing change performed. Wound healing as expected.,Played a game of cards with resident. Enjoyed a pleasant conversation.,20/03/2024
+Resident 73,67,Assisted,8,Excellent,4,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Participated in reminiscing activity. Resident shared stories from their youth.,20/03/2024
+Resident 74,93,Independent,10,Good,2,Yes,Monitored for signs of infection. No concerns noted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,20/03/2024
+Resident 75,89,Assisted,7,Poor,1,No,Monitored blood pressure due to dizziness. Medication adjusted.,Offered assistance with reading materials. Patient preferred listening to music.,20/03/2024
+Resident 76,84,Dependent,7,Fair,4,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Offered assistance with reading materials. Patient preferred listening to music.,20/03/2024
+Resident 77,81,Independent,4,Excellent,1,Yes,Discussed upcoming family visit. Patient in good spirits.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,20/03/2024
+Resident 78,85,Assisted,7,Good,2,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Participated in reminiscing activity. Resident shared stories from their youth.,20/03/2024
+Resident 79,90,Assisted,7,Poor,4,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered assistance with reading materials. Patient preferred listening to music.,20/03/2024
+Resident 80,89,Dependent,4,Good,1,No,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,20/03/2024
+Resident 81,75,Assisted,1,Poor,1,No,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,20/03/2024
+Resident 82,74,Assisted,4,Good,4,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,20/03/2024
+Resident 83,95,Independent,6,Poor,1,No,Monitored for signs of infection. No concerns noted.,Assisted with morning dressing. Patient in positive mood.,20/03/2024
+Resident 84,89,Independent,0,Excellent,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 85,91,Assisted,6,Fair,4,Yes,Monitored for signs of infection. No concerns noted.,Played a game of cards with resident. Enjoyed a pleasant conversation.,20/03/2024
+Resident 86,86,Assisted,6,Poor,2,No,Monitored blood pressure due to dizziness. Medication adjusted.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 87,71,Independent,9,Fair,1,Yes,Vitals stable. No immediate concerns.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 88,74,Independent,8,Good,4,Yes,Monitored for signs of infection. No concerns noted.,Enjoyed a chat about the weather during breakfast.,20/03/2024
+Resident 89,81,Independent,8,Fair,4,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,20/03/2024
+Resident 90,92,Independent,2,Excellent,2,No,Dressing change performed. Wound healing as expected.,Reminded resident about medication schedule. Assisted with taking medications.,20/03/2024
+Resident 91,94,Dependent,5,Excellent,4,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Participated in reminiscing activity. Resident shared stories from their youth.,20/03/2024
+Resident 92,95,Independent,0,Poor,4,Yes,Vitals stable. No immediate concerns.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,20/03/2024
+Resident 93,77,Dependent,7,Excellent,1,Yes,Discussed upcoming family visit. Patient in good spirits.,Played a game of cards with resident. Enjoyed a pleasant conversation.,20/03/2024
+Resident 94,85,Independent,8,Poor,4,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Played a game of cards with resident. Enjoyed a pleasant conversation.,20/03/2024
+Resident 95,91,Assisted,8,Poor,1,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with morning dressing. Patient in positive mood.,20/03/2024
+Resident 96,85,Independent,6,Poor,4,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered help with writing a letter to family. Patient expressed gratitude for support.,20/03/2024
+Resident 97,66,Dependent,2,Good,2,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,20/03/2024
+Resident 98,68,Assisted,9,Good,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered assistance with reading materials. Patient preferred listening to music.,20/03/2024
+Resident 99,84,Independent,2,Excellent,4,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered help with writing a letter to family. Patient expressed gratitude for support.,20/03/2024
+Resident 0,70,Dependent,10,Good,4,Yes,Dressing change performed. Wound healing as expected.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 1,69,Dependent,0,Fair,4,Yes,Monitored for signs of infection. No concerns noted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 2,69,Assisted,5,Good,4,No,Vitals stable. No immediate concerns.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 3,74,Dependent,8,Poor,4,No,Monitored for signs of infection. No concerns noted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 4,83,Dependent,2,Poor,4,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Participated in reminiscing activity. Resident shared stories from their youth.,21/03/2024
+Resident 5,68,Dependent,0,Excellent,4,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 6,66,Dependent,4,Excellent,4,Yes,Monitored for signs of infection. No concerns noted.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 7,81,Independent,2,Poor,4,No,Vitals stable. No immediate concerns.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 8,65,Assisted,2,Good,3,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Reminded resident about medication schedule. Assisted with taking medications.,21/03/2024
+Resident 9,87,Dependent,4,Fair,4,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,21/03/2024
+Resident 10,75,Assisted,7,Good,1,No,Monitored blood pressure due to dizziness. Medication adjusted.,Reminded resident about medication schedule. Assisted with taking medications.,21/03/2024
+Resident 11,91,Assisted,7,Excellent,3,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 12,75,Assisted,2,Excellent,2,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 13,90,Assisted,2,Excellent,1,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,21/03/2024
+Resident 14,93,Independent,10,Good,4,No,Monitored for signs of infection. No concerns noted.,Participated in reminiscing activity. Resident shared stories from their youth.,21/03/2024
+Resident 15,79,Independent,6,Fair,2,Yes,Dressing change performed. Wound healing as expected.,Reminded resident about medication schedule. Assisted with taking medications.,21/03/2024
+Resident 16,74,Independent,1,Poor,3,No,Vitals stable. No immediate concerns.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 17,71,Independent,5,Good,2,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 18,75,Dependent,6,Fair,2,No,Encouraged participation in physical therapy. Slight improvement in gait.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 19,87,Independent,7,Good,1,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,21/03/2024
+Resident 20,95,Independent,0,Excellent,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 21,84,Independent,7,Fair,3,No,Discussed upcoming family visit. Patient in good spirits.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 22,67,Independent,7,Poor,4,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,21/03/2024
+Resident 23,74,Independent,1,Poor,2,No,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,21/03/2024
+Resident 24,80,Dependent,6,Excellent,1,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Assisted with morning dressing. Patient in positive mood.,21/03/2024
+Resident 25,89,Assisted,8,Excellent,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Reminded resident about medication schedule. Assisted with taking medications.,21/03/2024
+Resident 26,75,Independent,0,Excellent,4,No,Vitals stable. No immediate concerns.,Played a game of cards with resident. Enjoyed a pleasant conversation.,21/03/2024
+Resident 27,94,Assisted,7,Fair,1,No,Encouraged participation in physical therapy. Slight improvement in gait.,Offered help with writing a letter to family. Patient expressed gratitude for support.,21/03/2024
+Resident 28,83,Assisted,3,Fair,2,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 29,79,Dependent,8,Poor,2,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 30,67,Independent,6,Excellent,2,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Assisted with morning dressing. Patient in positive mood.,21/03/2024
+Resident 31,89,Assisted,6,Poor,1,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 32,91,Independent,0,Poor,4,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 33,68,Dependent,2,Excellent,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 34,73,Assisted,1,Poor,3,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 35,68,Assisted,8,Poor,4,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Reminded resident about medication schedule. Assisted with taking medications.,21/03/2024
+Resident 36,74,Assisted,10,Good,2,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 37,75,Dependent,10,Good,1,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Played a game of cards with resident. Enjoyed a pleasant conversation.,21/03/2024
+Resident 38,67,Assisted,5,Excellent,1,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 39,84,Dependent,3,Good,1,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Reminded resident about medication schedule. Assisted with taking medications.,21/03/2024
+Resident 40,68,Dependent,4,Good,3,Yes,Monitored for signs of infection. No concerns noted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,21/03/2024
+Resident 41,70,Assisted,8,Poor,4,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 42,85,Assisted,7,Fair,4,Yes,Monitored for signs of infection. No concerns noted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,21/03/2024
+Resident 43,74,Assisted,6,Good,1,No,Discussed upcoming family visit. Patient in good spirits.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 44,66,Dependent,9,Fair,2,Yes,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with morning dressing. Patient in positive mood.,21/03/2024
+Resident 45,73,Assisted,6,Poor,1,No,Discussed upcoming family visit. Patient in good spirits.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,21/03/2024
+Resident 46,70,Independent,2,Fair,4,Yes,Vitals stable. No immediate concerns.,Reminded resident about medication schedule. Assisted with taking medications.,21/03/2024
+Resident 47,76,Assisted,10,Fair,4,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 48,69,Assisted,6,Excellent,1,No,Encouraged participation in physical therapy. Slight improvement in gait.,Played a game of cards with resident. Enjoyed a pleasant conversation.,21/03/2024
+Resident 49,66,Dependent,1,Poor,1,Yes,Encouraged participation in physical therapy. Slight improvement in gait.,Assisted with morning dressing. Patient in positive mood.,21/03/2024
+Resident 50,73,Dependent,0,Poor,1,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,21/03/2024
+Resident 51,88,Assisted,3,Excellent,1,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 52,78,Assisted,1,Good,2,No,Dressing change performed. Wound healing as expected.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 53,87,Assisted,0,Poor,4,No,Encouraged participation in physical therapy. Slight improvement in gait.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 54,93,Dependent,2,Excellent,4,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered help with writing a letter to family. Patient expressed gratitude for support.,21/03/2024
+Resident 55,80,Dependent,9,Fair,2,Yes,Discussed upcoming family visit. Patient in good spirits.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,21/03/2024
+Resident 56,93,Dependent,4,Excellent,4,No,Vitals stable. No immediate concerns.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 57,74,Assisted,8,Fair,3,No,Monitored blood pressure due to dizziness. Medication adjusted.,Offered help with writing a letter to family. Patient expressed gratitude for support.,21/03/2024
+Resident 58,68,Assisted,7,Excellent,4,No,Dressing change performed. Wound healing as expected.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 59,77,Independent,10,Excellent,1,No,Encouraged participation in physical therapy. Slight improvement in gait.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 60,66,Independent,7,Excellent,3,No,Vitals stable. No immediate concerns.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 61,77,Independent,6,Poor,2,No,Monitored blood pressure due to dizziness. Medication adjusted.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 62,71,Dependent,9,Good,2,Yes,Vitals stable. No immediate concerns.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 63,74,Dependent,8,Good,2,No,Monitored blood pressure due to dizziness. Medication adjusted.,Assisted with morning dressing. Patient in positive mood.,21/03/2024
+Resident 64,75,Dependent,6,Excellent,3,No,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 65,83,Dependent,10,Poor,4,No,Monitored blood pressure due to dizziness. Medication adjusted.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 66,85,Assisted,3,Poor,2,No,Dressing change performed. Wound healing as expected.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 67,78,Independent,2,Fair,3,No,Vitals stable. No immediate concerns.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,21/03/2024
+Resident 68,95,Dependent,8,Fair,1,No,Monitored for signs of infection. No concerns noted.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 69,68,Dependent,6,Poor,4,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,21/03/2024
+Resident 70,80,Dependent,0,Excellent,3,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 71,68,Independent,8,Excellent,3,No,Encouraged participation in physical therapy. Slight improvement in gait.,Participated in reminiscing activity. Resident shared stories from their youth.,21/03/2024
+Resident 72,77,Dependent,10,Poor,1,No,Monitored for signs of infection. No concerns noted.,Participated in reminiscing activity. Resident shared stories from their youth.,21/03/2024
+Resident 73,67,Assisted,7,Fair,4,No,Vitals stable. No immediate concerns.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,21/03/2024
+Resident 74,93,Dependent,7,Excellent,4,No,Monitored blood pressure due to dizziness. Medication adjusted.,Reminded resident about medication schedule. Assisted with taking medications.,21/03/2024
+Resident 75,89,Dependent,7,Excellent,4,Yes,Dressing change performed. Wound healing as expected.,Reminded resident about medication schedule. Assisted with taking medications.,21/03/2024
+Resident 76,84,Dependent,6,Good,2,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,21/03/2024
+Resident 77,81,Dependent,2,Poor,4,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Played a game of cards with resident. Enjoyed a pleasant conversation.,21/03/2024
+Resident 78,85,Dependent,0,Excellent,4,No,Encouraged participation in physical therapy. Slight improvement in gait.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 79,90,Dependent,8,Poor,1,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Participated in reminiscing activity. Resident shared stories from their youth.,21/03/2024
+Resident 80,89,Independent,4,Poor,2,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Played a game of cards with resident. Enjoyed a pleasant conversation.,21/03/2024
+Resident 81,75,Dependent,0,Excellent,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 82,74,Assisted,0,Poor,4,Yes,Dressing change performed. Wound healing as expected.,Enjoyed a chat about the weather during breakfast.,21/03/2024
+Resident 83,95,Independent,8,Good,1,No,Encouraged participation in physical therapy. Slight improvement in gait.,Offered help with writing a letter to family. Patient expressed gratitude for support.,21/03/2024
+Resident 84,89,Dependent,8,Excellent,3,Yes,Assisted with medication administration. Patient expressed understanding of medication schedule.,Participated in reminiscing activity. Resident shared stories from their youth.,21/03/2024
+Resident 85,91,Assisted,3,Fair,3,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Assisted with morning dressing. Patient in positive mood.,21/03/2024
+Resident 86,86,Dependent,8,Good,1,No,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 87,71,Dependent,6,Poor,3,Yes,Administered pain medication for discomfort. Scheduled follow-up with doctor.,Offered assistance with reading materials. Patient preferred listening to music.,21/03/2024
+Resident 88,74,Assisted,7,Excellent,2,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,21/03/2024
+Resident 89,81,Independent,10,Good,3,No,Monitored for signs of infection. No concerns noted.,Helped resident prepare for bed. Patient expressed feeling comfortable for the night.,21/03/2024
+Resident 90,92,Dependent,6,Excellent,3,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Offered help with writing a letter to family. Patient expressed gratitude for support.,21/03/2024
+Resident 91,94,Independent,3,Excellent,3,No,Discussed upcoming family visit. Patient in good spirits.,Participated in reminiscing activity. Resident shared stories from their youth.,21/03/2024
+Resident 92,95,Assisted,8,Good,1,No,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Played a game of cards with resident. Enjoyed a pleasant conversation.,21/03/2024
+Resident 93,77,Assisted,7,Excellent,1,No,Vitals stable. No immediate concerns.,Reminded resident about medication schedule. Assisted with taking medications.,21/03/2024
+Resident 94,85,Dependent,2,Good,3,Yes,Patient reported feeling well-rested. Encouraged social interaction with other residents.,Participated in reminiscing activity. Resident shared stories from their youth.,21/03/2024
+Resident 95,91,Dependent,5,Poor,4,No,Assisted with medication administration. Patient expressed understanding of medication schedule.,Assisted with walking exercise in the garden. Resident enjoyed the fresh air.,21/03/2024
+Resident 96,85,Independent,8,Poor,2,Yes,Dressing change performed. Wound healing as expected.,Assisted with morning dressing. Patient in positive mood.,21/03/2024
+Resident 97,66,Assisted,0,Good,4,Yes,Discussed upcoming family visit. Patient in good spirits.,Encouraged participation in bingo game. Resident had a good laugh with other residents.,21/03/2024
+Resident 98,68,Assisted,0,Fair,2,Yes,Dietary assessment conducted. Recommended adjustments to meet nutritional needs.,Participated in reminiscing activity. Resident shared stories from their youth.,21/03/2024
+Resident 99,84,Dependent,10,Excellent,4,No,Vitals stable. No immediate concerns.,Enjoyed a chat about the weather during breakfast.,21/03/2024

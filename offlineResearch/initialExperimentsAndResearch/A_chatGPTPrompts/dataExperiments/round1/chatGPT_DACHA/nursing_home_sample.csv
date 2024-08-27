@@ -1,0 +1,11 @@
+ResidentID,FirstName,LastName,DateOfBirth,Gender,MaritalStatus,AdmissionDate,DischargeDate,RoomNumber,MedicalConditions,Medications,Allergies,FunctionalStatus,ADLsIndependence,MentalStatus,DepressionScreening,FallRiskAssessment
+1,Mary,O'Connor,1940-08-15,Female,Married,2019-06-20,,102,"Hypertension, Diabetes","Lisinopril, Metformin",,"Able to walk with assistance",Partial assistance,Alert and oriented,Not screened,Low risk
+2,John,Murphy,1935-11-25,Male,Widowed,2020-03-10,,205,"Arthritis, Dementia","Naproxen, Donepezil",,"Requires wheelchair",Dependent,Confused,Positive,Moderate risk
+3,Nora,Kelly,1930-05-03,Female,Single,2018-12-12,,301,"Osteoporosis, Heart Failure","Furosemide, Alendronate",,"Requires assistance for mobility",Partial assistance,Alert and oriented,Not screened,Low risk
+4,Michael,Brennan,1944-02-28,Male,Married,2021-09-05,,202,"Stroke, Anxiety","Aspirin, Lorazepam",,"Independent in most ADLs",Independent,Alert and oriented,Not screened,Low risk
+5,Bridget,Doyle,1937-09-12,Female,Widowed,2017-11-30,,402,"COPD, Hypothyroidism","Salbutamol, Levothyroxine",,"Requires assistance for bathing",Partial assistance,Confused,Not screened,High risk
+6,Sean,Walsh,1943-07-18,Male,Married,2022-01-15,,104,"Parkinson's Disease, Depression","Levodopa, Sertraline",,"Independent with mobility aids",Partial assistance,Alert and oriented,Not screened,Low risk
+7,Eileen,Ryan,1928-12-08,Female,Widowed,2020-08-20,,502,"Dementia, Hypertension","Memantine, Amlodipine",,"Requires full assistance for ADLs",Dependent,Confused,Positive,High risk
+8,Patrick,Byrne,1939-04-02,Male,Single,2019-05-10,,306,"Type 2 Diabetes, Arthritis","Insulin, Celecoxib",,"Requires assistance for dressing",Partial assistance,Alert and oriented,Not screened,Low risk
+9,Sheila,Connolly,1933-06-27,Female,Married,2018-10-01,,401,"Heart Failure, Osteoarthritis","Digoxin, Ibuprofen",,"Independent in most ADLs",Independent,Alert and oriented,Not screened,Low risk
+10,Liam,Kelly,1936-10-20,Male,Widowed,2021-03-28,,105,"COPD, Hypertension","Tiotropium, Losartan",,"Requires assistance for eating",Partial assistance,Confused,Not screened,High risk

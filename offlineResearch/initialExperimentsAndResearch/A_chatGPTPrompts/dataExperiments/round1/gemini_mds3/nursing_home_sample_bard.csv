@@ -1,0 +1,11 @@
+Resident ID,Date of Assessment,Age,Gender,Marital Status,Length of Stay (days),Primary Diagnosis,Cognitive Function Score,ADL Score,Continence (Bowel),Number of Medications,High Risk Medications (Category),Pressure Sores
+RES1000,08/03/2024,89,Female,Married,128,Depression,5,6,Incontinent,2,Opioids,Yes
+RES1001,08/03/2024,87,Male,Widowed,217,Arthritis,9,7,Incontinent,4,None,Yes
+RES1002,08/03/2024,69,Female,Widowed,174,Parkinson's Disease,10,1,Incontinent,4,Blood Thinners,Yes
+RES1003,08/03/2024,80,Female,Widowed,269,Hip Fracture,5,3,Continent,4,Opioids,Yes
+RES1004,08/03/2024,70,Male,Single,174,Depression,9,5,Continent,1,Antidepressants,No
+RES1005,08/03/2024,79,Male,Single,264,Alzheimer's Disease,2,3,Continent,2,Antidepressants,No
+RES1006,08/03/2024,65,Male,Widowed,200,Heart Failure,6,4,Continent,4,Blood Thinners,No
+RES1007,08/03/2024,83,Male,Married,61,COPD,9,6,Continent,5,None,Yes
+RES1008,08/03/2024,75,Male,Widowed,195,Hip Fracture,6,8,Continent,5,Antidepressants,No
+RES1009,08/03/2024,68,Male,Divorced,194,Arthritis,6,4,Continent,2,None,No

@@ -1,0 +1,44 @@
+# Gemini Commands
+## Unmet and Unidentified Palliative Care Needs
+- file1_unmetNeeds.csv - Generate a daily nurse and a daily carer note every day for a week (Monday to Friday) for an anonymized (numerical identifier) elderly nursing home resident with unmet and unidentified palliative care needs. Put this data in csv format so that I can download it.  
+- file2_unmetNeeds.csv - Generate a daily nurse and a daily carer note every day for a week (Monday to Friday) for an anonymized (numerical identifier) elderly nursing home resident with unmet and unidentified palliative care needs. Do not explicity mention palliative care. Put this data in csv code so that I can download it. 
+- file3_unmetNeeds.csv - Great. Generate another example for a similar patient.
+- file4_unmetNeeds.csv - Generate another example for another patient.
+- file5_unmetNeeds.csv - Generate yet another example for another patient.
+- file6_unmetNeeds.csv - generate another example of a different patient in csv format
+- file7_unmetNeeds.csv - generate another example of a different patient in csv format
+- file8_unmetNeeds.csv - Generate a daily nurse and a daily carer note every day for a week (Monday to Friday) for an anonymized (numerical identifier) elderly nursing home resident with unmet and unidentified palliative care needs. Put this data in csv format so that I can download it. 
+- file9_unmetNeeds.csv - Great. Do this again. Generate a daily nurse and a daily carer note every day for a week (Monday to Friday) for an anonymized (numerical identifier) elderly nursing home resident with unmet and unidentified palliative care needs. Put this data in csv format so that I can download it. 
+- file10_unmetNeeds.csv - Generate similar data for a new patient. Their care notes should not be the same as other patients. 
+- file11_unmetNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file12_unmetNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file13_unmetNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file14_unmetNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file15_unmetNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file16_unmetNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents.  
+- file17_unmetNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file18_unmetNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file19_unmetNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file20_unmetNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+
+## Met and Identified Palliative Care Needs
+- file1_metNeeds.csv - Generate a daily nurse and a daily carer note every day for a week (Monday to Friday) for an anonymized (numerical identifier) elderly nursing home resident with met and identified palliative care needs. Put this data in csv format so that I can download it.  
+- file2_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file3_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file4_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file5_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file6_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file7_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file8_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file9_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file10_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file11_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file12_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file13_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file14_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file15_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file16_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file17_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file18_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file19_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 
+- file20_metNeeds.csv - Generate data for another patient in similar condition. Ensure their notes are not the same as other residents. 

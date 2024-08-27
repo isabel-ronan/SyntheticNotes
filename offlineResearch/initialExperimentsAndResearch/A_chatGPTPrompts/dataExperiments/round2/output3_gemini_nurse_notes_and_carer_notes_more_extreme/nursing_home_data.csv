@@ -1,0 +1,21 @@
+Date,Resident Name,Age,Diagnosis,Medication Adherence,Pain Level (0-10),Mood,Activity Level (Independent/Assisted/Dependent),Nurse Notes,Carer Notes
+2024-03-17,Sarah Murphy,85,Arthritis,Partial,1,Positive,Assisted,Assisted Sarah Murphy with exercises. They seemed positive.,Helped Sarah Murphy with exercises.
+2024-03-17,David Walsh,72,Heart Disease,Full,1,Neutral,Assisted,David Walsh participated in exercises session. They seemed neutral.,Helped David Walsh with exercises.
+2024-03-17,Caoimhe O'Connor,60,Depression,Full,2,Neutral,Dependent,Caoimhe O'Connor participated in therapy session. They seemed neutral.,Spent time talking with Caoimhe O'Connor about family visit.
+2024-03-17,Eamon O'Sullivan,90,Dementia,Partial,2,Negative,Assisted,Assisted Eamon O'Sullivan with exercises. They seemed negative.,Helped Eamon O'Sullivan with exercises.
+2024-03-17,Aisha Hassan,65,Diabetes,Missed,7,Neutral,Dependent,Assisted Aisha Hassan with exercises. They seemed neutral.,Helped Aisha Hassan with exercises.
+2024-03-18,Sarah Murphy,85,Arthritis,Missed,3,Negative,Dependent,Assisted Sarah Murphy with exercises. They seemed negative.,Helped Sarah Murphy with exercises.
+2024-03-18,David Walsh,72,Heart Disease,Partial,7,Positive,Assisted,David Walsh participated in exercises session. They seemed positive.,Spent time talking with David Walsh about upcoming surgery.
+2024-03-18,Caoimhe O'Connor,60,Depression,Full,6,Negative,Dependent,Caoimhe O'Connor participated in music therapy session. They seemed negative.,Helped Caoimhe O'Connor with music therapy.
+2024-03-18,Eamon O'Sullivan,90,Dementia,Full,0,Positive,Independent,Eamon O'Sullivan participated in breakfast session. They seemed positive.,Helped Eamon O'Sullivan with breakfast.
+2024-03-18,Aisha Hassan,65,Diabetes,Full,5,Positive,Dependent,Assisted Aisha Hassan with music therapy. They seemed positive.,Spent time talking with Aisha Hassan about family visit.
+2024-03-19,Sarah Murphy,85,Arthritis,Full,1,Negative,Independent,Assisted Sarah Murphy with breakfast. They seemed negative.,Spent time talking with Sarah Murphy about family visit.
+2024-03-19,David Walsh,72,Heart Disease,Full,5,Positive,Dependent,David Walsh participated in exercises session. They seemed positive.,Spent time talking with David Walsh about upcoming surgery.
+2024-03-19,Caoimhe O'Connor,60,Depression,Partial,8,Neutral,Assisted,Caoimhe O'Connor participated in exercises session. They seemed neutral.,Spent time talking with Caoimhe O'Connor about family visit.
+2024-03-19,Eamon O'Sullivan,90,Dementia,Missed,3,Neutral,Independent,Assisted Eamon O'Sullivan with music therapy. They seemed neutral.,Spent time talking with Eamon O'Sullivan about family visit.
+2024-03-19,Aisha Hassan,65,Diabetes,Missed,4,Neutral,Independent,Aisha Hassan participated in music therapy session. They seemed neutral.,Spent time talking with Aisha Hassan about family visit.
+2024-03-20,Sarah Murphy,85,Arthritis,Full,9,Negative,Independent,Assisted Sarah Murphy with exercises. They seemed negative.,Spent time talking with Sarah Murphy about family visit.
+2024-03-20,David Walsh,72,Heart Disease,Partial,7,Negative,Dependent,Assisted David Walsh with breakfast. They seemed negative.,Spent time talking with David Walsh about upcoming surgery.
+2024-03-20,Caoimhe O'Connor,60,Depression,Full,8,Neutral,Dependent,Assisted Caoimhe O'Connor with breakfast. They seemed neutral.,Helped Caoimhe O'Connor with breakfast.
+2024-03-20,Eamon O'Sullivan,90,Dementia,Full,10,Positive,Independent,Eamon O'Sullivan participated in therapy session. They seemed positive.,Helped Eamon O'Sullivan with therapy.
+2024-03-20,Aisha Hassan,65,Diabetes,Full,10,Positive,Independent,Assisted Aisha Hassan with exercises. They seemed positive.,Spent time talking with Aisha Hassan about family visit.
