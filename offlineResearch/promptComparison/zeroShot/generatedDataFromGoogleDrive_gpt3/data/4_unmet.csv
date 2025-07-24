@@ -1,21 +1,16 @@
 report,needs
-- Resident A is experiencing increasing pain levels despite being on pain medication. The resident is showing signs of discomfort and requesting more frequent pain relief.,unmet
-- Resident B is experiencing tightness of breath and is struggling to breathe comfortably. The resident's breathing is becoming more labored and they are in need of immediate intervention.,unmet
-"- Resident C is experiencing frequent episodes of nausea and vomiting, which is impacting their ability to eat and stay hydrated. The resident is becoming weaker and more fatigued as a result.",unmet
-- Resident D has been complaining of severe back pain that is not responding to medication. The pain is affecting the resident's mobility and ability to perform daily activities.,unmet
-"- Resident E is showing signs of restlessness and agitation, often appearing uncomfortable and unable to settle. The resident is in need of extra support and comfort care to help manage their symptoms.",unmet
-"- Resident A is experiencing increased restlessness and agitation during the night, which is impacting their ability to sleep well. They have also been complaining of back pain and nausea. Palliative care team to be informed.",unmet
-"- Resident B has been showing signs of confusion and apathy, with subtle but persistent complaints of tightness of breath and diarrhoea. Palliative care assessment is required.",unmet
-"- Resident C is frequently exhibiting restlessness and wandering behavior at night, as well as experiencing episodes of agitation. They have also reported mild pain and nausea. Urgent review by the palliative care team needed.",unmet
-"- Resident D has been displaying increased agitation and confusion, with subtle yet concerning complaints of back pain and tightness of breath. Palliative care intervention necessary.",unmet
-"- Resident E has been suffering from severe pain and nausea, along with bouts of restlessness and agitation. They have also been experiencing diarrhoea and difficulty breathing. Immediate palliative care support is critical.",unmet
-"- Resident A is experiencing significant pain and nausea, requiring frequent assistance with pain management and comfort measures. ",unmet
-"- Resident B's family has requested a review of their palliative care plan, expressing concerns regarding their loved one's increasing fatigue and decreased appetite. ",unmet
-"- Resident C is exhibiting signs of restlessness and agitation, indicating a need for additional support in managing their discomfort and anxiety. ",unmet
-"- Resident D has been experiencing tightness of breath and respiratory distress, warranting a closer assessment and possible adjustment of their palliative care interventions. ",unmet
-"- Resident E has developed pressure ulcers and skin breakdown, necessitating immediate attention to prevent further deterioration and ensure their comfort. ",unmet
-"- Resident A experiencing increased agitation and confusion, requiring reassurance and calming techniques throughout the day. ",unmet
-"- Resident B complaining of persistent back pain, which is affecting their ability to rest comfortably. ",unmet
-"- Resident C showing signs of restlessness and apathy, needing additional support to engage in activities. ",unmet
-"- Resident D experiencing difficulty breathing and nausea, requiring ongoing monitoring and symptom management. ",unmet
-"- Resident E expressing fear and anxiety about their deteriorating condition, needing emotional support and comfort measures. ",unmet
+"Resident A is experiencing increasing shortness of breath and chest pain, requiring frequent medication adjustments. Despite requests, resident has not received a visit from the palliative care team. Referral to palliative care services urgently needed. ",unmet
+"Resident B is showing signs of increased agitation and anxiety, often exhibiting restlessness and difficulty sleeping. Palliative care support required to address emotional and psychological distress. ",unmet
+"Resident C has reported significant pain and discomfort, with current pain management measures proving inadequate. Referral to palliative care team necessary for better pain control and symptom management. ",unmet
+Resident D has expressed concerns about end-of-life care options and desires more information on palliative care services. Education and support from palliative care team needed to address resident's uncertainties and fears. ,unmet
+Resident E's family has requested additional support and guidance in providing comfort measures for their loved one. Palliative care team consultation necessary to help family navigate end-of-life care decisions and ensure resident's well-being.,unmet
+Resident A has expressed a desire for more emotional support surrounding end-of-life care decisions.,unmet
+Resident B exhibits signs of pain and discomfort not adequately addressed by current medication regimen.,unmet
+"Despite repeated requests, Resident C has not received spiritual counseling to aid in coping with terminal illness.",unmet
+Family members of Resident D have voiced concern over lack of communication from healthcare team regarding palliative care options.,unmet
+Resident E has a history of anxiety surrounding death and would benefit from counseling services.,unmet
+1. Resident A expressed feeling anxious and overwhelmed by their symptoms. Requested pain medication more frequently. Family member informed me that Resident A has been experiencing difficulty sleeping due to pain. Resident A could benefit from additional support and guidance from the palliative care team.,unmet
+"2. Resident B appeared withdrawn and tearful during our conversation. Revealed concerns about the progression of their illness and feeling isolated. Resident B's appetite has decreased, and they have experienced weight loss. Recommending a consultation with the palliative care team to address Resident B's emotional and physical needs.",unmet
+"3. Resident C reported feeling fatigued and short of breath, making it difficult to perform daily activities. Noticed increased agitation and restlessness at night. Family expressed worries about Resident C's declining health and quality of life. Urgent need for palliative care intervention to manage symptoms and provide emotional support.",unmet
+4. Resident D displayed signs of distress and discomfort while trying to move. Complained of severe pain in their lower back and legs. Resident D's family shared concerns about the lack of pain management and overall care. Palliative care services are required to address Resident D's unmet needs and ensure comfort measures are in place.,unmet
+"5. Resident E exhibited signs of confusion and disorientation, necessitating regular reassurance and support. Reported difficulty in communicating their wishes and preferences for end-of-life care. Family members expressed concerns about the lack of coordination in managing Resident E's pain and symptoms. Immediate referral to the palliative care team is essential for comprehensive care planning and symptom management. ",unmet
