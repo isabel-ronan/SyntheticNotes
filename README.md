@@ -12,6 +12,6 @@ Please reach out to me at my [email address](mailto:118441194@umail.ucc.ie) shou
 
 ## Additional Information
 - `./offlineResearch/` directory uses Python version (3.12.6) and Pip version (24.2). 
-- All necessary packages can be installed using the `./offlineResearch/requirements.txt` file. 
+- All necessary packages can be installed using the `./offlineResearch/requirements.txt` file. Package list created using `pip list --format=freeze > requirements.txt` command.
 - Additionally run the `python -m spacy download en_core_web_sm` command in your Python environment to install additional Spacy dependencies.
 
